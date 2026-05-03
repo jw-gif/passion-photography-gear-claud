@@ -1,0 +1,1 @@
+ALTER TABLE public.onboarding_hire_checklist ADD COLUMN day_offset INTEGER;

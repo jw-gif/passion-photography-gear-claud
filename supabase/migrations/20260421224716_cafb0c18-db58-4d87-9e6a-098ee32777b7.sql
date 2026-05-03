@@ -1,0 +1,1 @@
+ALTER TABLE public.gear ADD COLUMN requestable boolean NOT NULL DEFAULT true;

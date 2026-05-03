@@ -1,0 +1,1 @@
+ALTER TABLE public.gear ENABLE TRIGGER USER;
